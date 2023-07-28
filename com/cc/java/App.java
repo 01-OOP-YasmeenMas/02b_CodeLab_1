@@ -27,6 +27,9 @@ public class App {
         output(String.valueOf(konto1.getKontostand()));
         output(String.valueOf(konto2.getKontostand()));
         output(String.valueOf(konto3.getKontostand()));
+
+        // Herr Schmidt Lösung
+        output("Konto1: " + konto1.getKontostand() );
     }
 
 
